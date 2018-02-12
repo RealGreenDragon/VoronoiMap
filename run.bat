@@ -4,7 +4,7 @@ REM For Windows
 
 REM Create scene
 bin\Release\voronoi ^
---output out_obj/voronoi_map.obj ^
+--output voronoi_map.obj ^
 --map_side 20.0 ^
 --max_elevation 2.0 ^
 --points 20000 ^
