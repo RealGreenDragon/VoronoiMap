@@ -1,6 +1,8 @@
 # Voronoi Map Generator
 Project for Computer Graphics course, Sapienza 2018
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # Compiler to use
 - For Linux/OSX I strongly recommend to use g++ v7/clang++ v5 or upper
 - For Windows I strongly recommend to use Visual Studio 2017 or upper
