@@ -17,4 +17,4 @@ bin\Release\voronoi ^
 --coast_regularity 6
 
 REM View scene
-bin\Release\yitrace out_obj/voronoi_map.obj -r 720
+bin\Release\yitrace voronoi_map.obj -r 720
