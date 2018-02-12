@@ -8,6 +8,7 @@ Project for Computer Graphics course, Sapienza 2018
 - For Windows I strongly recommend to use Visual Studio 2017 or upper
 
 # How build
+- Install CMake (https://cmake.org/)
 - For Linux/OSX exec build.sh
 - For Windows exec build.bat (insert in the variable VS_PATH your Visual Studio installation path)
 
