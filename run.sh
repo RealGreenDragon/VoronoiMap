@@ -3,7 +3,7 @@
 
 # Create scene
 bin/voronoi \
---output out_obj/voronoi_map.obj \
+--output voronoi_map.obj \
 --map_side 20.0 \
 --max_elevation 2.0 \
 --points 20000 \
@@ -16,4 +16,4 @@ bin/voronoi \
 --coast_regularity 6
 
 # View scene
-./bin/yitrace out_obj/voronoi_map.obj -r 720
+./bin/yitrace voronoi_map.obj -r 720
