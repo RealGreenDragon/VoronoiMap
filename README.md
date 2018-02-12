@@ -9,7 +9,7 @@ Project for Computer Graphics course, Sapienza 2018
 
 # How build
 - For Linux/OSX exec build.sh
-- For Windows exec build.bat
+- For Windows exec build.bat (insert in the variable VS_PATH your Visual Studio installation path)
 
 # Generate and view an example scene
 - For Linux/OSX exec run.sh
