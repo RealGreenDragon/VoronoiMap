@@ -8,13 +8,13 @@ Project for Computer Graphics course, Sapienza 2018
 - For Windows I strongly recommend to use Visual Studio 2017 or upper
 
 # How build
-- Install CMake (https://cmake.org/)
+- Install [CMake](https://cmake.org/)
 - For Linux/OSX exec build.sh
-- For Windows exec build.bat (insert in the variable VS_PATH your Visual Studio installation path)
+- For Windows exec build.bat (insert in the variable "VS_PATH" your Visual Studio installation path)
 
 # Generate and view an example scene
 - For Linux/OSX exec run.sh
 - For Windows exec run.bat
 
 # Notes
-- To exec the project, you must have "glew32.dll" and "glfw3.dll" in the folder where is "voronoi.exe"
+- To exec the project in Windows, you must have "glew32.dll" and "glfw3.dll" in the binary folder (the default is "bin/Release"). You can find them in the folder "src\apps\w32\lib-vc2015".
