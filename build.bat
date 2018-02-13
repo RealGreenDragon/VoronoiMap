@@ -15,7 +15,7 @@ set "VS_BUILD_DIR=%CD%"
 
 REM Prepare to build VS solution and return into build directory
 @call "%VS_PATH%Common7\Tools\VsDevCmd.bat"
-cd %VS_BUILD_DIR%
+cd /d %VS_BUILD_DIR%
 
 REM Build VS2017 solution
 devenv /build Release graphics17a_voronoi.sln
