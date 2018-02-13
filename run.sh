@@ -2,7 +2,7 @@
 # For OSX and Linux
 
 # Create scene
-bin/voronoi \
+./bin/voronoi \
 --output voronoi_map.obj \
 --map_side 20.0 \
 --max_elevation 2.0 \
