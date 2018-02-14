@@ -18,3 +18,9 @@ Project for Computer Graphics course, Sapienza 2018
 
 # Notes
 - To exec the project in Windows, you must have "glew32.dll" and "glfw3.dll" in the binary folder (the default is "bin/Release"). You can find them in the folder "src\apps\w32\lib-vc2015".
+
+# Examples
+![island_jagged_1](img/island_jagged_1.png)
+![island_jagged_2](img/island_jagged_2.png)
+![island_regular_1](img/island_regular_1.png)
+![island_regular 2](img/island_regular_2.png)
